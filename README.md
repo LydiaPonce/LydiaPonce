@@ -1,5 +1,5 @@
 
-![Image text] (https://github.com/LydiaPonce/LydiaPonce/blob/main/linkedin%20skyline.png)
+![alt text](https://github.com/LydiaPonce/LydiaPonce/blob/main/linkedin%20skyline.png)
 
 ### Hi I´m Lidia 👋
 
