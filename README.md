@@ -1,3 +1,6 @@
+
+![Image text] (https://github.com/LydiaPonce/LydiaPonce/blob/main/linkedin%20skyline.png)
+
 ### Hi I´m Lidia 👋
 
 - 🔍 I’m currently looking for a job as a data analyst
